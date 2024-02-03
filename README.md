@@ -1,1 +1,3 @@
 # Movie-Data-Correlation-Python
+
+This movie data analysis project utilized Python libraries such as pandas, numpy, seaborn, and matplotlib to explore and visualize a movie dataset. Through the use of scatter plots and correlation matrices, the project aimed to uncover relationships between variables and identify significant trends. Insights gleaned from the analysis provided valuable understanding of the dataset, including correlations between various movie attributes. Overall, the project demonstrated the effectiveness of Python in conducting data analysis and visualization tasks, offering actionable insights for decision-making in the movie industry.
